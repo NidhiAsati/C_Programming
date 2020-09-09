@@ -1,0 +1,1 @@
+VoidPointer.o: ../VoidPointer.c

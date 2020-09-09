@@ -1,0 +1,1 @@
+PointerIncrement.o: ../PointerIncrement.c

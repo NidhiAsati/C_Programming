@@ -1,0 +1,1 @@
+ReadingFileUsingfread.o: ../ReadingFileUsingfread.c

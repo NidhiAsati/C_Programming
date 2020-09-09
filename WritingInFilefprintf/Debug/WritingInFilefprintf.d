@@ -1,0 +1,1 @@
+WritingInFilefprintf.o: ../WritingInFilefprintf.c

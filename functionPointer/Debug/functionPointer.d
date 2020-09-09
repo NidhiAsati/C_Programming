@@ -1,0 +1,1 @@
+functionPointer.o: ../functionPointer.c

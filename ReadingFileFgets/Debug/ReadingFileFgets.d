@@ -1,0 +1,1 @@
+ReadingFileFgets.o: ../ReadingFileFgets.c

@@ -1,0 +1,1 @@
+WritingInFile.o: ../WritingInFile.c

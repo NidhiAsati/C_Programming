@@ -1,0 +1,1 @@
+TakesomethingRnNothing.o: ../TakesomethingRnNothing.c

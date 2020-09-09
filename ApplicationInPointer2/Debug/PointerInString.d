@@ -1,0 +1,1 @@
+PointerInString.o: ../PointerInString.c

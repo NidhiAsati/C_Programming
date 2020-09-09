@@ -1,0 +1,1 @@
+WritingInFileUsingfwrite.o: ../WritingInFileUsingfwrite.c

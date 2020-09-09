@@ -1,0 +1,1 @@
+PreProcessorCommand.o: ../PreProcessorCommand.c

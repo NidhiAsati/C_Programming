@@ -1,0 +1,1 @@
+BookInfoInStructure.o: ../BookInfoInStructure.c
